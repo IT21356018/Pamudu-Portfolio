@@ -21,7 +21,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "npm run build",
+    "build": "npm run build --prefix Frontend",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
